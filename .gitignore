@@ -1,0 +1,68 @@
+# Node.js
+node_modules/
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.eggs/
+
+# Virtual Environments
+.venv/
+venv/
+backend/.venv/
+backend/venv/
+env/
+ENV/
+env.bak/
+
+# Logs and Reports
+*.log
+*.out
+*.err
+*.pid
+*.gz
+*.cover
+*.coverage
+.coverage.*
+
+# Build files
+build/
+dist/
+frontend/build/
+*.egg
+*.whl
+
+# Static files and assets
+staticfiles/
+media/
+
+# Temporary and Cache Files
+*.swp
+*.tmp
+*.bak
+*.backup
+*.cache
+*.sqlite3
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+.idea
+*.sublime-workspace
+*.sublime-project
+**/*.xml
+
+
+# Git
+*.orig
+*.rej
+
+*.env
